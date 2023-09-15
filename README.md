@@ -15,7 +15,7 @@ Projeto desenvolvido e finalizado em 25/05/2018 de um Suporte de Comedouro para 
 ![Imagem 1](https://github.com/scgalves/SuporteComedouroPet/blob/main/size1/presentation/final-1.jpeg)
 ![Imagem 2](https://github.com/scgalves/SuporteComedouroPet/blob/main/size1/presentation/final-2.jpeg)
 
-## Modificações feitas durante a execução do projeto
+## Modificações durante a execução do projeto
 O suporte sofreu algumas modificações, sob responsabilidade do marceneiro que executou o serviço.
 * Na parte inferior, o marceneiro fez um corte na madeira (em cada lateral), dispensando, assim, o uso de sapatas do projeto original.
 
