@@ -28,7 +28,7 @@ O suporte sofreu algumas poucas modificações, sob responsabilidade do marcenei
 ## Material
 * madeira tipo Pinus;
 * parafusos;
-* 2 fechos com imã;
+* 2 fechos com imãs;
 * cola de madeira;
 * acabamento com seladora de madeira.
 
