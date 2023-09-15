@@ -5,10 +5,16 @@
 Projeto desenvolvido e finalizado em 25/05/2018 de um Suporte de Comedouro para cães e gatos, em três tamanhos, para ser confeccionado em madeira. Cada tamanho vai variar conforme o tamanho do animal que for utilizá-lo.
 
 # Layout (suporte tamanho 1)
-![Imagem 1](https://github.com/scgalves/SuporteComedouroPet/blob/main/assets/presentation/presentation-1.jpg)
+![Imagem 1](https://github.com/scgalves/SuporteComedouroPet/blob/main/size1/img/size1-1.png)
+![Imagem 2](https://github.com/scgalves/SuporteComedouroPet/blob/main/size1/img/size1-2.png)
+![Imagem 3](https://github.com/scgalves/SuporteComedouroPet/blob/main/size1/img/size1-3.png)
+![Imagem 4](https://github.com/scgalves/SuporteComedouroPet/blob/main/size1/img/size1-5.png)
+![Imagem 5](https://github.com/scgalves/SuporteComedouroPet/blob/main/size1/img/size1-5.png)
+![Imagem 6](https://github.com/scgalves/SuporteComedouroPet/blob/main/size1/img/size1-6.png)
+![Imagem 7](https://github.com/scgalves/SuporteComedouroPet/blob/main/size1/img/size1-7.png)
 
 # Tecnologia utilizada
-* FreeCAD 0.18.4
+* FreeCAD 0.18.4.
 
 # Finalização do Suporte Tamanho 1
 ## Imagens
