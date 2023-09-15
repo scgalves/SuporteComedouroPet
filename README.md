@@ -32,7 +32,7 @@ O suporte sofreu algumas modificações, sob responsabilidade do marceneiro que 
 * Acabamento com seladora de madeira.
 
 # Observações
-Dentro de cada pasta "size" os arquivos "..._Plot.PDF" contém as imagens em vários ângulos e as medidas dos suportes, para serem plotadas em formato A2.
+Dentro de cada pasta "size..." os arquivos "..._Plot.PDF" contém as imagens em vários ângulos e com as medidas dos suportes, para serem plotadas em formato A2.
 
 # Autor
 Sérgio Carlos Guimarães Alves
