@@ -13,10 +13,12 @@ Projeto desenvolvido e finalizado em 25/05/2018 de um Suporte de Comedouro para 
 # Suporte Tamanho 1 finalizado
 ## Imagens
 O suporte sofreu algumas poucas modificações, sob responsabilidade do marceneiro que executou o serviço:
-* Na parte inferior, o marceneiro fez um corte na madeira (em cada lateral), dispensando, assim, o uso de sapatas do projeto original;
-* Na porta, o fecho com rolete foi substituído por dois fechos com imã.
 ![Imagem 1](https://github.com/scgalves/SuporteComedouroPet/blob/main/size1/presentation/final-1.jpeg)
 ![Imagem 2](https://github.com/scgalves/SuporteComedouroPet/blob/main/size1/presentation/final-2.jpeg)
+* Na parte inferior, o marceneiro fez um corte na madeira (em cada lateral), dispensando, assim, o uso de sapatas do projeto original;
+![Imagem 3](https://github.com/scgalves/SuporteComedouroPet/blob/main/size1/presentation/final-3.jpeg)
+* Na porta, o fecho com rolete foi substituído por dois fechos com imã.
+![Imagem 4](https://github.com/scgalves/SuporteComedouroPet/blob/main/size1/presentation/final-4.jpeg)
 ## Material
 * madeira tipo Pinus;
 * parafusos;
