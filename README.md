@@ -13,8 +13,8 @@ Projeto desenvolvido e finalizado em 25/05/2018 de um Suporte de Comedouro para 
 # Suporte Tamanho 1 finalizado
 ## Imagens
 O suporte sofreu algumas poucas modificações, sob responsabilidade do marceneiro que executou o serviço:
-* na parte inferior, o marceneiro fez um corte na madeira, em cada lado, dispensando, assim, o uso de sapatas do projeto original;
-* na porta, o fecho com rolete foi substituído por um fecho com imã.
+* na parte inferior, o marceneiro fez um corte na madeira (em cada lateral), dispensando, assim, o uso de sapatas do projeto original;
+* na porta, o fecho com rolete foi substituído por dois fechos com imã.
 ![Imagem 1](https://github.com/scgalves/SuporteComedouroPet/blob/main/assets/presentation/presentation-1.jpg)
 ## Material
 * madeira tipo Pinus;
@@ -33,6 +33,4 @@ scgalves@gmail.com
 https://www.linkedin.com/in/sergiocarlosguimaresalves/
 
 # Marceneiro
-Zé Gatinha
-
-Caculé-BA
+Zé Gatinha (Caculé-BA)
