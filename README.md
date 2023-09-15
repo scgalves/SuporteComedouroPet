@@ -21,7 +21,7 @@ O suporte sofreu algumas modificações, sob responsabilidade do marceneiro que 
 
 ![Imagem 3](https://github.com/scgalves/SuporteComedouroPet/blob/main/size1/presentation/final-3.jpeg)
 
-* Para o fechamento da porta, o fecho com rolete (do projeto original) foi substituído por dois fechos com imãs.
+* Para o fechamento da porta, o fecho com rolete (projeto original) foi substituído por dois fechos com imãs.
 
 ![Imagem 4](https://github.com/scgalves/SuporteComedouroPet/blob/main/size1/presentation/final-4.jpeg)
 ## Material utilizado
